@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "intro-to-machine-learning",
+      "title": "Introduction to Machine Learning with scikit-learn",
+      "description": "Train and evaluate your first machine learning model using scikit-learn, covering the full ML workflow: loading data, training a classifier, and measuring performance.",
+      "path": "assignments/intro-to-machine-learning",
+      "dueDate": "2026-05-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
